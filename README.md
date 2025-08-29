@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Việt Nam
 * ✉️  You can contact me at [futherr123@gmail.com](mailto:futherr123@gmail.com)
 * 🧠  I'm currently learning new AI module
-* 👥  I'm looking to collaborate on AI project and Web designer
+* 👥  I'm looking to collaborate on frontend project and Web designer
 * 💬  Ask me about I'm really like to draw tree :)
 
 <p align="left">
